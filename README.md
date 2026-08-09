@@ -7,7 +7,7 @@
 Simulation codes, numerical methods, and computational physics projects developed during my undergraduate life at my own .
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--1565--4158-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0009-1565-4158)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/sm-anis-24985a168)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/salauddin-muhammad-anis-24985a168)
 
 ---
 
@@ -55,8 +55,8 @@ This repository is where I collect and share the simulation and numerical-method
 
 - **Email:** salauddinanis55@gmail.com
 - **ORCID:** [0009-0009-1565-4158](https://orcid.org/0009-0009-1565-4158)
-- **LinkedIn:** linkedin.com/in/salauddin-muhammad-anis-24985a168
-
+- **LinkedIn:** [linkedin.com/in/salauddin-muhammad-anis-24985a168
+](https://linkedin.com/in/salauddin-muhammad-anis-24985a168)
 ## License
 
 This repository is shared for educational and research purposes. See individual project folders for specific licensing where applicable.
