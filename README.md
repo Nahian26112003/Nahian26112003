@@ -52,7 +52,7 @@ This repository is where I collect and share the simulation and numerical-method
 
 
 ## Contact
-
+- **Email:** nahiananis206@gmail.com
 - **Email:** salauddinanis55@gmail.com
 - **ORCID:** [0009-0009-1565-4158](https://orcid.org/0009-0009-1565-4158)
 - **LinkedIn:** [linkedin.com/in/salauddin-muhammad-anis-24985a168
