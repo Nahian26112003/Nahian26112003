@@ -4,7 +4,7 @@
 
 # Computational Physics & Numerical Methods
 
-Simulation codes, numerical methods, and computational physics projects developed during my undergraduate and graduate research in Physics.
+Simulation codes, numerical methods, and computational physics projects developed during my undergraduate life at my own .
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--1565--4158-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0009-1565-4158)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/sm-anis-24985a168)
