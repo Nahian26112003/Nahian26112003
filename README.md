@@ -13,7 +13,7 @@ Simulation codes, numerical methods, and computational physics projects develope
 
 ## About Me
 
-I'm **Salauddin Muhammad Anis**, a physics researcher currently completing my B.Sc. (Hons) in Physics at the University of Rajshahi, Bangladesh, and beginning graduate studies. My work centers on computational physics, strongly correlated electron systems, and numerical simulation techniques, with a growing focus on High Performance Computing (HPC), Quantum Monte Carlo (QMC) methods, and Density Functional Theory (DFT).
+I'm **Salauddin Muhammad Anis**, a physics researcher currently completing my B.Sc. (Hons) in Physics at the University of Rajshahi, Bangladesh, and beginning graduate studies. My work centers on computational physics, strongly correlated electron systems, and numerical simulation techniques, with a growing focus on High Performance Computing (HPC), and Density Functional Theory (DFT).
 
 This repository is where I collect and share the simulation and numerical-methods code I write along the way — from coursework exercises to research-grade calculations.
 
