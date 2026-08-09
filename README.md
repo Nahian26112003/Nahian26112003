@@ -1,34 +1,70 @@
-# Hello 👋, I'm Salauddin Muhammad Anis
-### Computational Physics Enthusiast
+<div align="center">
+  <img src="profile.jpg" alt="Salauddin Muhammad Anis" width="180" style="border-radius: 50%;" />
+</div>
 
-I am currently pursuing my graduate studies in physics, with a strong interest in computational physics, strongly correlated electron systems, and numerical simulation techniques. I have experience in computational physics simulation using Python and in numerical simulations. I am building my expertise in the fields of High Performance Computing, and Density Functional Theory (DFT), with a current research focus on strongly correlated electron systems using DFT.
+# Computational Physics & Numerical Methods
 
-## Contact Me
-<p><a href="linkedin.com/in/salauddin-muhammad-anis-24985a168" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
+Simulation codes, numerical methods, and computational physics projects developed during my undergraduate and graduate research in Physics.
 
-## Skills
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--1565--4158-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0009-1565-4158)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/sm-anis-24985a168)
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="fortran" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="machine learning" width="40" height="40"/>&nbsp;
-</p>
+---
 
-## GitHub Stats
+## About Me
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nahian26112003&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
+I'm **Salauddin Muhammad Anis**, a physics researcher currently completing my B.Sc. (Hons) in Physics at the University of Rajshahi, Bangladesh, and beginning graduate studies. My work centers on computational physics, strongly correlated electron systems, and numerical simulation techniques, with a growing focus on High Performance Computing (HPC), Quantum Monte Carlo (QMC) methods, and Density Functional Theory (DFT).
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahian26112003&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
+This repository is where I collect and share the simulation and numerical-methods code I write along the way — from coursework exercises to research-grade calculations.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nahian26112003&theme=default" alt="GitHub Streak" />
+## Research Interests
 
-<img src="https://profile-counter.glitch.me/Nahian26112003/count.svg?" alt="visitors count" />
+- Condensed Matter Physics
+- Computational Materials Science
+- Topological Quantum Materials
+- Strongly Correlated Electron Systems
+- Machine Learning for Physics
 
-## GitHub Trophies
+## Repository Contents
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nahian26112003" alt="trophy" />
+| Folder | Description |
+|---|---|
+| `dft/` | Density Functional Theory calculations and analysis scripts (CASTEP / Quantum ESPRESSO workflows, post-processing) |
+| `numerical-methods/` | Classic numerical methods implementations (root finding, ODE/PDE solvers, integration, linear algebra) |
+| `ml-for-physics/` | Machine learning applications to physical systems |
 
-## GitHub Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nahian26112003&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+> Folder structure will grow as new projects are added — check individual project folders for their own README with usage instructions.
 
+## Tech Stack
+
+- **Languages:** Python, Fortran
+- **Scientific computing:** NumPy, SciPy, SymPy, Matplotlib
+- **Machine learning:** scikit-learn, TensorFlow
+- **DFT packages:** CASTEP, Quantum ESPRESSO
+- **Documentation:** LaTeX
+
+## Selected Research
+
+- *Spin-Polarized DFT-Based Study of the Elastic, Mechanical, Acoustic, Thermal, Electronic, and Optical Properties of EuCd₂As₂ Magnetic Material under External Pressure* — Preprint: [10.13140/RG.2.2.11240.43524](https://doi.org/10.13140/RG.2.2.11240.43524)
+
+
+## Getting Started
+
+Most projects use Python 3.10+. Clone the repo and install dependencies per-project:
+
+```bash
+git clone https://github.com/<your-username>/<repo-name>.git
+cd <repo-name>/<project-folder>
+pip install -r requirements.txt
+```
+
+## Contact
+
+- **Email:** salauddinanis55@gmail.com
+- **ORCID:** [0009-0009-1565-4158](https://orcid.org/0009-0009-1565-4158)
+- **LinkedIn:** [sm-anis-24985a168](https://linkedin.com/in/sm-anis-24985a168)
+
+## License
+
+This repository is shared for educational and research purposes. See individual project folders for specific licensing where applicable.
