@@ -49,15 +49,7 @@ This repository is where I collect and share the simulation and numerical-method
 - *Spin-Polarized DFT-Based Study of the Elastic, Mechanical, Acoustic, Thermal, Electronic, and Optical Properties of EuCd₂As₂ Magnetic Material under External Pressure* — Preprint: [10.13140/RG.2.2.11240.43524](https://doi.org/10.13140/RG.2.2.11240.43524)
 
 
-## Getting Started
 
-Most projects use Python 3.10+. Clone the repo and install dependencies per-project:
-
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>/<project-folder>
-pip install -r requirements.txt
-```
 
 ## Contact
 
